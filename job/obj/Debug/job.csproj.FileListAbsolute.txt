@@ -1,0 +1,11 @@
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\bin\Debug\job.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\bin\Debug\job.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\bin\Debug\job.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\5\job\obj\Debug\job.pdb
